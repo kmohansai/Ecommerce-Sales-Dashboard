@@ -26,7 +26,5 @@ During the course of this project, the following key skills and techniques were 
 2.Advanced Visualization Techniques: Implemented complex parameters, filters, and slicers to enable dynamic and detailed data exploration.
 3.Data Manipulation and Calculation: Created connections, joined new tables, and performed calculations to manipulate data and enhance visualizations.
 4.Customized Visualizations: Utilized various customized visualizations such as bar charts, donut charts, clustered bar charts, slicers, etc., to present data effectively.
-Acknowledgments
 
-
-We hope this dashboard provides valuable insights for Madhav Store's online sales strategy. Feel free to explore the visualizations and use the interactive features to gain a deeper understanding of the data. Happy analyzing!
+Hope this dashboard provides valuable insights for Madhav Store's online sales strategy. Feel free to explore the visualizations and use the interactive features to gain a deeper understanding of the data. Happy analyzing!
