@@ -13,17 +13,17 @@ __Data Source__
 
 The sales data is stored in CSV format, split across two files. The following steps were followed in the project:
 
-Extract the Data: The sales data was extracted from the provided CSV files.
-Transform the Data: Power BI's Power Query editor was utilized to transform and clean the raw data, making it suitable for analysis.
-Load the Data in Power BI: The transformed data was loaded into Power BI for visualization and analysis.
+1.Extract the Data: The sales data was extracted from the provided CSV files.
+2.Transform the Data: Power BI's Power Query editor was utilized to transform and clean the raw data, making it suitable for analysis.
+3.Load the Data in Power BI: The transformed data was loaded into Power BI for visualization and analysis.
 Project Learning
 
 During the course of this project, the following key skills and techniques were utilized:
 
-Interactive Dashboard Creation: Created an interactive dashboard that allows users to explore online sales data easily.
-Advanced Visualization Techniques: Implemented complex parameters, filters, and slicers to enable dynamic and detailed data exploration.
-Data Manipulation and Calculation: Created connections, joined new tables, and performed calculations to manipulate data and enhance visualizations.
-Customized Visualizations: Utilized various customized visualizations such as bar charts, donut charts, clustered bar charts, slicers, etc., to present data effectively.
+1.Interactive Dashboard Creation: Created an interactive dashboard that allows users to explore online sales data easily.
+2.Advanced Visualization Techniques: Implemented complex parameters, filters, and slicers to enable dynamic and detailed data exploration.
+3.Data Manipulation and Calculation: Created connections, joined new tables, and performed calculations to manipulate data and enhance visualizations.
+4.Customized Visualizations: Utilized various customized visualizations such as bar charts, donut charts, clustered bar charts, slicers, etc., to present data effectively.
 Acknowledgments
 
 
